@@ -1,8 +1,11 @@
 # Spring_React_maven-plugin
-A project demonstrating how to include React in your Spring Boot maven build, introduces feign client and redux as well.
+A project demonstrating how to include React in your Spring Boot maven build.
+
+### Todo
+Introduce feign client and redux as well.
+
 
 Here is a comprehensive explanation of the setup.
-
 
 DEV Community Blog
 
